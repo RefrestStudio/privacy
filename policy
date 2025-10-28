@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy / プライバシーポリシー</h1>
+
+<h2>English</h2>
+<p>This app, developed by Refrest Studio ("we"), does not collect personal information.
+The app displays ads via Unity Ads and/or LevelPlay (ironSource).
+These partners may use the device Advertising ID to deliver relevant ads or measure performance.
+We do not personally identify users.</p>
+
+<h2>日本語</h2>
+<p>本アプリ（開発：Refrest Studio）は、個人情報を収集しません。
+本アプリは Unity Ads または LevelPlay（ironSource）を通じて広告を表示します。
+これらの広告パートナーは、端末の広告IDを使用して関連広告を配信または効果測定を行う場合があります。
+当方が個人を特定することはありません。</p>
+
+<h2>Contact / お問い合わせ</h2>
+<p>If you have any questions, please contact: refreststudio@gmail.com</p>
+
+</body>
+</html>
